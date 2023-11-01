@@ -32,7 +32,7 @@ A Full Stack retail store, created with Python, SQLAlchemy, FlaskRESTful, React,
 
 **Sales Performance Dashboard**
 
-A sales performancee dashboard tool to evaluate category, product, and geogrphical performance metrics to assist in making business decisions based on data-driven insights.
+A Full Stack website exemplifying a sales performance dashboard tool to evaluate category, product, and geogrphical performance metrics to assist in making business decisions based on data-driven insights.
 
 <!--
 **SHERINAAB/SherinaAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
