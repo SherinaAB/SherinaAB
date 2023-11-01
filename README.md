@@ -1,41 +1,41 @@
-<h1 align="center">👋 Hey! My name is Brandi 😄 </h1>
+<h1 align="center">👋 Hi! My name is Sherina 😄 </h1>
 <p align="center">Pronouns: She/Her</p>
-<p align="center">A full stack software engineer with a passion for design and user interaction. As an ambitious self-sufficient learner, I am fascinated with challenging myself on a daily basis in order to better understand the world around me. I love to create! Being a software engineer allows me to connect and communicate with an audience through my passion of creating technological solutions by utilizing my problem solving, logical and creative skills.</p>
+<p align="center">As an experienced Full Stack Developer with a background in Business Analytics, I'm not just a problem solver; I'm a passionate creator. I possess a solid proficiency in Python, FlaskRESTful, JavaScript, and React, along with expertise in data-drivel storytelling and effective cross-level communication. My career journey started as a Business Analyst where I identified market trends and increased sales between 8-12%, annually. This experience ignited my transition to software engineering, allowing me to blend technical expertise with analytical insight. I love connecting with audiences through innovative solutions and am excited to bring my unique skill set to impact your company's performance metrics.</p>
 
 <h2> Skills 💪 </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,py,flask,sqlite,tailwind,html,css,git,gitlab,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,react,ts,js,py,flask,sqlite,firebase,bootstrap,tailwind,html,css,git,github,gitlab,postman,vscode)](https://skillicons.dev)
 
 ---
 
 <h2>Get in Touch 📬</h2>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandimasonco/)
-[![Medium](https://img.shields.io/badge/-Medium-12100e?style=flat&logo=Medium&logoColor=white)](https://medium.com/@masonbrandi66)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:masonbrandi66@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sherina-buenaseda/)
+[![Medium](https://img.shields.io/badge/-Medium-12100e?style=flat&logo=Medium&logoColor=white)](https://medium.com/@sherinaaguonbuenaseda)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sherina.a.buenaseda@gmail.com)
 
 
 <h2>Featured Projects 💻</h2>
 
 
-**WildSol Collective**
+**Denver Adventures With Flatiron**
 
-A Full Stack yoga studio website to sign-up for classes and events.
-
----
-
-**BookWorm**
-
-A literary app that helps track progress towards and achieve literary goals.
+A website, created with JavaScript, HTML, and CSS, guides users to the Mile-High City's nearby eateries, attractions to spend downtime, and hideaway spaces to relax and unwind near the Flatiron school in Denver, CO.
 
 ---
 
-**Explore Outside, Colorado Edition**
+**S and Bs Retail Store**
 
-A beginners guide to explore the great outdoors in Colorado.
+A Full Stack retail store, created with Python, SQLAlchemy, FlaskRESTful, React, and Tailwind, with user authentication/authorization, full CRUD, and add-to-cart features.
+
+---
+
+**Sales Performance Dashboard**
+
+A sales performancee dashboard tool to evaluate category, product, and geogrphical performance metrics to assist in making business decisions based on data-driven insights.
 
 <!--
-**brandimason/brandimason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SHERINAAB/SherinaAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - going to add demos & links to repo on here
 - want to add different logos for the get in touch part
