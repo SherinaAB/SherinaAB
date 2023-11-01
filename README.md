@@ -4,7 +4,7 @@
 
 <h2> Skills 💪 </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,react,ts,js,py,flask,sqlite,firebase,bootstrap,tailwind,git,github,gitlab,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,react,js,py,flask,sqlite,firebase,bootstrap,git,github,gitlab,postman,vscode)](https://skillicons.dev)
 
 ---
 
