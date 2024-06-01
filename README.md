@@ -22,7 +22,7 @@
 
 A website, created with JavaScript, HTML, and CSS, guides users to the Mile-High City's nearby eateries, attractions to spend downtime, and hideaway spaces to relax and unwind near the Flatiron school in Denver, CO.
 
-********* REBUILD PHASE 1 PROJECT IN NEW REPOSITORY TO AVOID MISHAPS WITH GUNNERS POTENTIAL UPDATES ***********
+
 ---
 
 **S and Bs Retail Store**
@@ -30,8 +30,6 @@ A website, created with JavaScript, HTML, and CSS, guides users to the Mile-High
 A Full Stack retail store, created with Python, SQLAlchemy, FlaskRESTful, React, and Tailwind, with user authentication/authorization, full CRUD, and add-to-cart features.
 
 ---
-********* Clean up Phase 2 React project to idealized completion ***********
-********* Clean up Phase 4 Python project to idealized completion ***********
 
 **Sales Performance Dashboard**
 
