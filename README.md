@@ -22,6 +22,7 @@
 
 A website, created with JavaScript, HTML, and CSS, guides users to the Mile-High City's nearby eateries, attractions to spend downtime, and hideaway spaces to relax and unwind near the Flatiron school in Denver, CO.
 
+********* REBUILD PHASE 1 PROJECT IN NEW REPOSITORY TO AVOID MISHAPS WITH GUNNERS POTENTIAL UPDATES ***********
 ---
 
 **S and Bs Retail Store**
